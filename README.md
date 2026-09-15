@@ -1,1 +1,1 @@
-# power_bi_project
+# power_bi_blinki_project
